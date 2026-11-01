@@ -1,0 +1,66 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "Abigail Rivera",
+      "email": "abigail.rivera@dummyjson.com",
+      "department": "Computer Science",
+      "year": "Year 2",
+      "cgpa": 9.2
+    },
+    {
+      "id": "2",
+      "name": "Ava Taylor",
+      "email": "ava.taylor@dummyjson.com",
+      "department": "Business Administration",
+      "year": "Year 1",
+      "cgpa": 8.9
+    },
+    {
+      "id": "3",
+      "name": "Avery Perez",
+      "email": "avery.perez@dummyjson.com",
+      "department": "Computer Science",
+      "year": "Year 3",
+      "cgpa": 8.8
+    },
+    {
+      "id": "4",
+      "name": "Charlotte Lopez",
+      "email": "charlotte.lopez@dummyjson.com",
+      "department": "Economics",
+      "year": "Year 4",
+      "cgpa": 9.5
+    },
+    {
+      "id": "5",
+      "name": "Daniel Cook",
+      "email": "daniel.cook@dummyjson.com",
+      "department": "Mechanical Engineering",
+      "year": "Year 2",
+      "cgpa": 8.4
+    }
+  ],
+  "teachers": [
+    {
+      "id": "1",
+      "name": "Avery Morgan",
+      "email": "avery.morgan@example.edu",
+      "department": "Computer Science",
+      "subject": "Data Structures",
+      "year": "Year 1",
+      "students": 12,
+      "status": "Active"
+    },
+    {
+      "id": "2",
+      "name": "Samira Patel",
+      "email": "samira.patel@example.edu",
+      "department": "Mathematics",
+      "subject": "Calculus",
+      "year": "Year 2",
+      "students": 10,
+      "status": "Active"
+    }
+  ]
+}

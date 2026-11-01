@@ -1,0 +1,126 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "Abisheck T",
+      "email": "abisheck123@gmail.com",
+      "department": "Computer Science",
+      "year": "Year 2",
+      "cgpa": 9.2
+    },
+    {
+      "id": "2",
+      "name": "Aarthi S",
+      "email": "aarthi123@gmail.com",
+      "department": "Business Administration",
+      "year": "Year 1",
+      "cgpa": 8.9
+    },
+    {
+      "id": "3",
+      "name": "Ambika N",
+      "email": "ambika123@gmail.com",
+      "department": "Computer Science",
+      "year": "Year 3",
+      "cgpa": 8.8
+    },
+    {
+      "id": "4",
+      "name": "Girish R",
+      "email": "girish123@gmail.com",
+      "department": "Economics",
+      "year": "Year 4",
+      "cgpa": 9.5
+    },
+    {
+      "id": "5",
+      "name": "Riju A",
+      "email": "riju123@gmail.com",
+      "department": "Mechanical Engineering",
+      "year": "Year 2",
+      "cgpa": 8.4
+    },
+    {
+      "name": "Pooja S",
+      "email": "pooja123@gmail.com",
+      "department": "Economics",
+      "year": "Year 2",
+      "cgpa": 9.2,
+      "id": "AqD_jXe"
+    },
+    {
+      "name": "Kishore R",
+      "email": "kishore123@gmail.com",
+      "department": "Computer Science",
+      "year": "Year 3",
+      "cgpa": 9.6,
+      "id": "8JKEok9"
+    },
+    {
+      "name": "Nithya S",
+      "email": "nithya123@gmail.com",
+      "department": "Economics",
+      "year": "Year 1",
+      "cgpa": 9.64,
+      "id": "Rm5n97c"
+    }
+  ],
+  "teachers": [
+    {
+      "name": "Suba M",
+      "email": "suba123@gmail.com",
+      "department": "Information Technology",
+      "subject": "DSA",
+      "year": "Year 1",
+      "students": 0,
+      "status": "Active",
+      "id": 1
+    },
+    {
+      "name": "Arun Kumar R",
+      "email": "arun123@gmail.com",
+      "department": "Mechanical Engineering",
+      "subject": "EG",
+      "year": "Year 1",
+      "students": 0,
+      "status": "Active",
+      "id": 2
+    },
+    {
+      "name": "Kathik Raj S",
+      "email": "karthik123@gmail.com",
+      "department": "Business Administration",
+      "subject": "HR",
+      "year": "Year 1",
+      "students": 0,
+      "id": 3
+    },
+    {
+      "name": "Praveen K",
+      "email": "praveen123@gmail.com",
+      "department": "Mechanical Engineering",
+      "subject": "Fluid Mechanics",
+      "year": "Year 1",
+      "students": 0,
+      "id": 4
+    },
+    {
+      "name": "Harish P",
+      "email": "harish123@gmail.com",
+      "department": "Economics",
+      "subject": "Labour Economics",
+      "year": "Year 1",
+      "students": 0,
+      "id": 5
+    },
+    {
+      "name": "Meena K",
+      "email": "meena123@gmail.com",
+      "department": "Information Technology",
+      "subject": "Python Programming",
+      "year": "Year 1",
+      "students": 0,
+      "id": 6
+    }
+  ]
+}
